@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# traffic
+Checking Nairobi Traffic using Machine Learning (Bayesian) and Twitter API.
+>>>>>>> a6924ea5dd608b9315d07197dc561fca5b6ff627
